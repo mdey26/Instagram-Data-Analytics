@@ -32,5 +32,3 @@ The goal was to derive **actionable business insights** from raw datasets by app
 | **Visualization** | Interactive Dashboards, Combo Charts, KPI Cards |
 
 ---
-
-## 🗂️ Project Structure  
