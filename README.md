@@ -32,3 +32,5 @@ The goal was to derive **actionable business insights** from raw datasets by app
 | **Visualization** | Interactive Dashboards, Combo Charts, KPI Cards |
 
 ---
+## SQL Scripts 
+All the sql scripts which are used for analysis is present in the PPT and PDF file. For reference you can view the same from the following. 
