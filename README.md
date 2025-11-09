@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/mdey26/Instagram-Data-Analytics/blob/main/Untitled design.png" alt="Instagram Data Analytics Project" width="100%" />
+</p>
 # Instagram-Data-Analytics
 This project uses SQL to analyze Instagram user data, offering insights for product management, marketing, and investor relations. It covers user loyalty, engagement, contest analysis, hashtag trends, ad campaign timing, user activity, and bot detection to inform platform development.
 
